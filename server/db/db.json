@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Orlando",
+    "id": "ca3f050a-c1bb-487a-87f6-1f5e93396383"
+  },
+  {
+    "name": "York, PA",
+    "id": "bc9d8ea7-a374-4ae1-8a28-b9874dd9b13a"
+  },
+  {
+    "name": "Cleveland",
+    "id": "617300f3-0d13-4185-9a9e-b15eef1914a6"
+  }
+]
